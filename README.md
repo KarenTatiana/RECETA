@@ -2,13 +2,13 @@
 
 ![Imagen montaje](Arroz_con_leche.jpg)
 
-<span style="color:black;font-family:Time New Roman;family-size:12;">El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones. Datos que veremos a continuación.
+<span style="color:black;font-family:Time New Roman;family-size:12;">El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones. Datos que veremos a continuación.</span>
   
-<span style="color:black;font-family:Time New Roman;family-size:12;">Así que, para preparar este popular arroz con leche casero, necesitaremos:
+<span style="color:black;font-family:Time New Roman;family-size:12;">Así que, para preparar este popular arroz con leche casero, necesitaremos:</span>
   
 <span style="color:black;font-family:Time New Roman;family-size:14;">*INGREDIENTES PARA 4 PERSONAS:*</span>
 
-<span style="color:black;font-family:Time New Roman;family-size:12;">
+<span style="color:black;font-family:Time New Roman;family-size:12;"> 
 
 •	100g de arroz redondo
 
@@ -23,10 +23,11 @@
 •	70g de azúcar
 
 •	10g de mantequilla
+</span>
 
-<span style="color:black;font-family:Time New Roman;family-size:14;">*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*
+<span style="color:black;font-family:Time New Roman;family-size:14;">*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*</span>
   
-  <span style="color:black;font-family:Time New Roman;family-size:12;">
+<span style="color:black;font-family:Time New Roman;family-size:12;">
   
 1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover.
 
@@ -37,5 +38,5 @@
 4.	Apagamos el fuego y añadimos la mantequilla. Quitamos las cáscaras y la canela en rama y mezclamos bien. Dejamos templar. Sigue mezclando de vez en cuando mientras lo dejes templar, para que no salga costra por la superficie.
 
 5.	Cuando haya templado algo, ponemos el arroz con leche en cuencos individuales. Puedes decorar con un trocito de la rama de canela que usaste para infusionar. Espolvorea encima un poco de canela molida, para darle el toque final
-
+</span>
   
