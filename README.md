@@ -8,6 +8,8 @@
   
 <span style="color:black;font-family:Time New Roman;family-size:14;">*INGREDIENTES PARA 4 PERSONAS:*</span>
 
+<span style="color:black;font-family:Time New Roman;family-size:12;">
+
 •	100g de arroz redondo
 
 •	1l de leche entera
@@ -23,6 +25,8 @@
 •	10g de mantequilla
 
 <span style="color:black;font-family:Time New Roman;family-size:14;">*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*
+  
+  <span style="color:black;font-family:Time New Roman;family-size:12;">
   
 1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover.
 
