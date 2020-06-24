@@ -35,6 +35,6 @@
 
 4.	Apagamos el fuego y añadimos la mantequilla. Quitamos las cáscaras y la canela en rama y mezclamos bien. Dejamos templar. Sigue mezclando de vez en cuando mientras lo dejes templar, para que no salga costra por la superficie.
 
-5.	Cuando haya templado algo, ponemos el arroz con leche en cuencos individuales. Puedes decorar con un trocito de la rama de canela que usaste para infusionar. Espolvorea encima un poco de canela molida, para darle el toque final
+5.	Cuando haya templado algo, ponemos el arroz con leche en cuencos individuales. Puedes decorar con un trocito de la rama de canela que usaste para infusionar. Espolvorea encima un poco de canela molida, para darle el toque final.
 
   
