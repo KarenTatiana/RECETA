@@ -28,8 +28,8 @@
 <span style="color:black;font-family:Time New Roman;family-size:14;">*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*</span>
   
 <span style="color:black;font-family:Time New Roman;family-size:12;">
-  
-1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover.
+
+1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover
 
 2.	Cuando esté caliente, pero que no llegue a ebullición, pues la leche pasados los 95-100ºC se quema y coge un regusto muy desagradable, dejamos cocer. Removemos cada cinco minutos, para asegurarnos que el arroz con leche no se pegue y para liberar el almidón. Así nos quedará más cremoso. Recuerda que no debe llegar a hervir a borbotones fuertes en ningún momento.
 
