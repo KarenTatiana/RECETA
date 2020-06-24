@@ -1,4 +1,4 @@
-# <span style="color:black;font-family:Castellar;font-size:18;">**RECETA DEL ARROZ CON LECHE** </span>
+## <span style="color:black;font-family:Castellar;font-size:18;">**RECETA DEL ARROZ CON LECHE** </span>
 
 ![Imagen montaje](Arroz_con_leche.jpg)
 
@@ -6,5 +6,5 @@
   
 <span style="color:black;font-family:Time New Roman;family-size:12;">Así que, para preparar este popular arroz con leche casero, necesitaremos:
   
-<span style="color:black;font-family:Time New Roman;family-size:14;">*INGREDIENTES PARA 4 PERSONAS:*
+<span style="color:blue;font-family:Time New Roman;family-size:14;">*INGREDIENTES PARA 4 PERSONAS:*
   
