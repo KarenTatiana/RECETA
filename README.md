@@ -6,7 +6,7 @@
   
 <span style="color:black;font-family:Time New Roman;family-size:12;">Así que, para preparar este popular arroz con leche casero, necesitaremos:</span>
   
-<span style="color:blue;font-family:Time New Roman;family-size:14;">_*INGREDIENTES PARA 4 PERSONAS:*_</span>
+<span style="color:blue;font-family:Time New Roman;family-size:14;">*_INGREDIENTES PARA 4 PERSONAS:_*</span> 
 
 <span style="color:black;font-family:Time New Roman;family-size:12;"> 
 
