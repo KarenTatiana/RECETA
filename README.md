@@ -6,7 +6,7 @@
   
 <span style="color:black;font-family:Time New Roman;family-size:12;">Así que, para preparar este popular arroz con leche casero, necesitaremos:</span>
   
-<span style="color:blue;font-family:Time New Roman;family-size:14;">*INGREDIENTES PARA 4 PERSONAS:*</span>
+<span style="color:blue;font-family:Time New Roman;family-size:14;">_*INGREDIENTES PARA 4 PERSONAS:*_</span>
 
 <span style="color:black;font-family:Time New Roman;family-size:12;"> 
 
@@ -24,7 +24,7 @@
 
 •	10g de mantequilla
 
-<span style="color:blue;font-family:Time New Roman;family-size:14;">*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*</span>
+<span style="color:blue;font-family:Time New Roman;family-size:14;">_*COMO HACER ARROZ CON LECHE CREMOSO FACIL:*_</span>
   
 <span style="color:black;font-family:Time New Roman;family-size:12;">
 1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover
